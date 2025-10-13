@@ -23,6 +23,7 @@
   },
   "prettier": {
     "semi": true,
+    "singleQuote": false,
     "printWidth": 9999,
     "trailingComma": "es5"
   }
